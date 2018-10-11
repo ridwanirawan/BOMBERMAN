@@ -33,6 +33,10 @@ echo $Y.
  ▌  ▗▟▄ ▝▙█  ▌▌ ▝▄▜ ▐ ▐     ▗▟▄  ▌  ▝▄▜  ▌▌ ▝▄▜ ▐ ▐';
 echo $R."\n".'++++++++++++++++++++++++++++++++++++++';
 echo $B."\n".'             BOMBERMAN                ';
+echo $B."\n".'             CHybernation.             ';
+echo $B."\n".'             facebook : nathan        ';
+echo $B."\n".'             instagram : ridrawan20   ';
+echo $B."\n".'             youtube : ridwan irawan  ';
 echo $R."\n".'++++++++++++++++++++++++++++++++++++++'.$G.$X."\n";
 isset($argv[1]) OR die($RR.'[!] masukan list nomor [!]'.$X);
 $bom=new otp();
